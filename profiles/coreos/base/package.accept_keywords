@@ -10,8 +10,6 @@
 =dev-lang/rust-1.59.0 ~amd64 ~arm64
 =virtual/rust-1.59.0 ~amd64 ~arm64
 
-=dev-libs/libgcrypt-1.9.4 ~amd64 ~arm64
-
 # needed for arm64 sdk
 =dev-util/pahole-1.20 ~arm64
 
