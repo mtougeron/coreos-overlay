@@ -11,7 +11,7 @@ app-eselect/eselect-pinentry-0.7.2
 app-eselect/eselect-vi-1.2
 
 # pulled in by net-firewall/iptables
-app-eselect/eselect-iptables-20200508
+app-eselect/eselect-iptables-20211203
 
 # pulled in by app-admin/sudo
 app-misc/editor-wrapper-4
