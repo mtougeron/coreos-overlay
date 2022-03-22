@@ -19,9 +19,6 @@
 
 =net-misc/rsync-3.2.3-r5 ~amd64 ~arm64
 
-# Upgrade to GCC 10.3.0 to support latest glibc builds
-=sys-libs/binutils-libs-2.37_p1 ~amd64 ~arm64
-
 =sys-fs/cryptsetup-2.4.1-r1 ~amd64 ~arm64
 
 =sys-libs/libseccomp-2.5.0 ~amd64 ~arm64
