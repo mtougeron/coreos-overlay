@@ -68,3 +68,5 @@
 
 # FIPS support is still being tested
 =sys-fs/cryptsetup-2.4.3-r1 ~amd64 ~arm64
+
+=app-crypt/adcli-0.9.1-r2 ~amd64 ~arm64
