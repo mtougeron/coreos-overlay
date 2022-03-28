@@ -74,7 +74,7 @@ RDEPEND="${RDEPEND}
 # Only applicable or available on amd64
 RDEPEND="${RDEPEND}
 	amd64? (
-		app-admin/adcli
+		app-crypt/adcli
 		app-crypt/go-tspi
 		app-emulation/xenserver-pv-version
 		app-emulation/xenstore
